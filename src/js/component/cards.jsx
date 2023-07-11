@@ -1,6 +1,6 @@
 import React from "react";
 
-import imgDefault from "../../img/placeholder-image.png";
+import imgDefault from "../../img/rigo-baby.jpg";
 //create your first component
 
 const ModelCard = (props) => {
